@@ -12,7 +12,7 @@
 
 ---
 [App Baltimore Government Practicum Project](https://akshaypracticum.github.io/practicum.github.io/)
-<img src="images/1Ap.jpg?raw=true"/>
+<img src="images/1Ap.png?raw=true" width=50% height=50%/>
 
 
 [Website for Real Estate Machine Learning Project written in python](https://akshaynagar26.github.io/Submission620_Akshay_Nagar/)
