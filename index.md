@@ -2,8 +2,8 @@
 
 ---
 
-### Please have a look at some of my work at University of Pennsylvania in the MUSA Program 
-#### I attended University of Pennsylvania with a generous Scholarship & I graduated with GPA 3.96/4.0 
+### Please have a look at some of my work at University of Pennsylvania in the MUSA Program. 
+#### I attended University of Pennsylvania with a generous Scholarship & I graduated with GPA 3.96/4.0.
 #### I intend to use my analytics & spatial analytics skills in public & private sector, as well as in Private business enterprises with a focus on architecture & real estate in the private sector & urban and real estate policy in the public sector.
 
 
