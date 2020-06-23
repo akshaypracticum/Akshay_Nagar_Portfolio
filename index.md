@@ -19,26 +19,8 @@
 <img src="images/ML.jpg?raw=true"/>
 
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/nn.jpg?raw=true"/>
 
 
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](https://akshaypracticum.github.io/markdownbalt/)
-- [Project 2 Title](https://akshaypracticum.github.io/practicum.github.io/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
