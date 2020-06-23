@@ -6,7 +6,7 @@
 #### I attended University of Pennsylvania with a generous Scholarship & I graduated with GPA 3.96/4.0
 
 [Markdown for Baltimore Government Practicum Project](https://akshaypracticum.github.io/markdownbalt/)
-<img src="images/AA11.png?raw=true"/>
+<img src="images/AA111.png?raw=true"/>
 
 ---
 [App Baltimore Government Practicum Project](https://akshaypracticum.github.io/practicum.github.io/)
