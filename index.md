@@ -14,15 +14,13 @@
 [App Baltimore Government Practicum Project](https://akshaypracticum.github.io/practicum.github.io/)
 <img src="images/baltimoreicon.jpg?raw=true"/>
 
-[App Baltimore Government Practicum Project](https://akshaypracticum.github.io/practicum.github.io/)
-<img src="images/ML.jpg?raw=true"/>
 
 [Website for Real Estate Machine Learning Project written in python](https://akshaynagar26.github.io/Submission620_Akshay_Nagar/)
 <img src="images/ML.jpg?raw=true"/>
 
 
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/baltimoreicon.jpg?raw=true"/>
+<img src="images/nn.jpg?raw=true"/>
 
 
 
