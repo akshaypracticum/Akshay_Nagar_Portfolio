@@ -5,7 +5,7 @@
 ### Please Have a look at some of my work at University of Pennsylvania in the MUSA Program 
 #### I attended University of Pennsylvania with a generous Scholarship & I graduated with GPA 3.96/4.0
 
-[Markdown for Baltimore Government Practicum Project](/https://akshaypracticum.github.io/markdownbalt/)
+[Markdown for Baltimore Government Practicum Project](https://akshaypracticum.github.io/markdownbalt/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
